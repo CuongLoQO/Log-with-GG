@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "504554573774",
+    "project_id": "giuaky-23876",
+    "storage_bucket": "giuaky-23876.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504554573774:android:0d986329248327a139a59f",
+        "android_client_info": {
+          "package_name": "com.example.giuaky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJv2BkwMTOQlRZHUxlKoXztTA4uqX-58I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

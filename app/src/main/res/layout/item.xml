@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1"
+        android:id="@+id/tv_id"
+        android:textSize="30dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_mt"
+        android:textSize="30dp"
+        android:text="Mặt trước"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/tv_ms"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:text="Mat sau"
+        />
+
+</LinearLayout>
